@@ -421,6 +421,7 @@ if submitted:
 st.markdown("""
 <div class="footer">
     <p>Made with ❤️ using Streamlit | Data-driven predictions for better health planning</p>
+    <p>Designed with ❤️ by  Eniola John Abatan | Data Scientist</p>
     <p style="font-size: 0.8rem;">© 2026 Insurance Payment Predictor</p>
 </div>
 """, unsafe_allow_html=True)
