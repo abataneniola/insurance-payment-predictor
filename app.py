@@ -267,7 +267,7 @@ st.markdown("""
 st.markdown("""
 <div class="main-header">
     <h1>🏥 Health Insurance Payment Predictor</h1>
-    <p>Predict your insurance costs with AI-powered accuracy</p>
+    <p>Predict your insurance costs with Data-powered accuracy</p>
 </div>
 """, unsafe_allow_html=True)
 
